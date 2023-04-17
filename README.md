@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakvitov
-- 📚 I am computer science student at CTU in Prague.
+- 💼 I work as a Java developer.
 - ☕ I code mostly in Java and secondly I use Python and JavaScript.
 - 📫 You can reach me on mail: jakvitov@gmail.com.
 
