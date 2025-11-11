@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakvitov
-- 💼 I work as a software developer.
-- ☕ I code mostly in Java and Kotlin, secondly I use Rust, Python, JavaScript and Go. 
+- 💼 I work as a software engineer.
+- I work primarily on complex systems written in Java, Oracle and Kotlin. In my spare time, I enjoy exploring other modern languages and technologies.
 - 📫 You can reach me on mail: jakvitov@gmail.com or at my website www.jakvitov.cz.
 
 <!---
